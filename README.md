@@ -8,7 +8,7 @@ Under the "pages" folder there are AddtoCart.js and Loginpage.js files and Under
 
 ## Test Automation Video
 
-Testing video can be found under videos folder
+Testing video can be found under videos folder (Ecommerce\cypress\videos)
 
 ## Instruction to Run the projects -
 
