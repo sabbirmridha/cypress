@@ -27,3 +27,7 @@ Testing video can be found under videos folder
 5.To start the test execution go to terminal and give below commands-
 
     npx cypress run
+
+## ScreenShot
+
+![cypressReportFromTerminal](https://github.com/user-attachments/assets/f5fbbdb2-ed34-4ff3-b946-05cf6e1ca42b)
